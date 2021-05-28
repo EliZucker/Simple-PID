@@ -1,5 +1,5 @@
 # Simple-PID
-**Exercise**: Implment a simple basic PID controller and visualizer.
+**Exercise**: Implement a simple basic PID controller and visualizer.
 
 Intended to run simulation via command ```python3 main.py```
 
